@@ -1,10 +1,10 @@
 {
   "chainId": 101,
-  "address": "59tgjSbzttnfGUqEhhgeX9JWGxyn6kMBgKgtTqdYrF2W",
+  "address": "6LLUNfCAitKTiXsfZ1CsPwCck8vovGGWATELzsZYsm4p",
   "symbol": "TRUMPINU",
   "name": "TRUMPINU",
   "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/<ТВОЙ-GITHUB>/token-list/main/assets/mainnet/59tgjSbzttnfGUqEhhgeX9JWGxyn6kMBgKgtTqdYrF2W.png",
+  "logoURI": "https://raw.githubusercontent.com/artiom20053/token-list/main/assets/mainnet/6LLUNfCAitKTiXsfZ1CsPwCck8vovGGWATELzsZYsm4p.png",
   "tags": [
     "meme",
     "community-token"
